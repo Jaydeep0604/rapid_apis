@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "voices": [
+        {
+            "language_code": "gu-IN",
+            "language_name": "Gujarati (India)",
+            "voice_type": "Neural",
+            "voice_code": "gu-IN-1",
+            "voice_gender": "Female"
+        },
+        {
+            "language_code": "gu-IN",
+            "language_name": "Gujarati (India)",
+            "voice_type": "Neural",
+            "voice_code": "gu-IN-2",
+            "voice_gender": "Male"
+        }
+    ]
+}
